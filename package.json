@@ -1,0 +1,28 @@
+{
+  "name": "grunt_exercises",
+  "version": "1.0.0",
+  "description": "Grunt Exercises",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kxeta/grunt_exercises.git"
+  },
+  "keywords": [
+    "Grunt",
+    "Exercises"
+  ],
+  "author": "Caixeta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kxeta/grunt_exercises/issues"
+  },
+  "homepage": "https://github.com/Kxeta/grunt_exercises",
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^0.12.0",
+    "grunt-contrib-watch": "^0.6.1"
+  }
+}
